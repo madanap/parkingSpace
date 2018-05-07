@@ -1,0 +1,73 @@
+[
+  {
+    "Address": "67 Thomas St",
+    "Suburb": "Ultimo",
+    "PostCode": 2007,
+    "State": "NSW",
+    "Country": "Australia",
+    "Latitude": -33.882795,
+    "Longitude": 151.200041,
+    "Number of slots": 50
+  },
+  {
+    "Address": "24 Mary Ann St",
+    "Suburb": "Ultimo",
+    "PostCode": 2007,
+    "State": "NSW",
+    "Country": "Australia",
+    "Latitude": -33.881486,
+    "Longitude": 151.198535,
+    "Number of slots": 5
+  },
+  {
+    "Address": "243 Pyrmont St",
+    "Suburb": "Darling harbour",
+    "PostCode": 2009,
+    "State": "NSW",
+    "Country": "Australia",
+    "Latitude": -33.8738,
+    "Longitude": 151.197428,
+    "Number of slots": 10
+  },
+  {
+    "ID": 4,
+    "Address": "3 George St",
+    "Suburb": "Redfern",
+    "PostCode": 2016,
+    "State": "NSW",
+    "Country": "Australia",
+    "Latitude": -33.889535,
+    "Longitude": 151.202806,
+    "Number of slots": 15
+  },
+  {
+    "Address": "280 Liverpool St",
+    "Suburb": "Darlinghurst",
+    "PostCode": 2010,
+    "State": "NSW",
+    "Country": "Australia",
+    "Latitude": -33.87784,
+    "Longitude": 151.219504,
+    "Number of slots": 20
+  },
+  {
+    "Address": "55 Fitzroy St",
+    "Suburb": "Surry Hills",
+    "PostCode": 2010,
+    "State": "NSW",
+    "Country": "Australia",
+    "Latitude": -33.884866,
+    "Longitude": 151.215014,
+    "Number of slots": 8
+  },
+  {
+    "Address": "200 Campbell St",
+    "Suburb": "Surry Hills",
+    "PostCode": 2010,
+    "State": "NSW",
+    "Country": "Australia",
+    "Latitude": -33.88095,
+    "Longitude": 151.216152,
+    "Number of slots": 6
+  }
+]
