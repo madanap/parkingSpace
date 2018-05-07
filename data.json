@@ -7,7 +7,7 @@
     "Country": "Australia",
     "Latitude": -33.882795,
     "Longitude": 151.200041,
-    "Number of slots": 50
+    "NumberOfSlots": 50
   },
   {
     "Address": "24 Mary Ann St",
@@ -17,7 +17,7 @@
     "Country": "Australia",
     "Latitude": -33.881486,
     "Longitude": 151.198535,
-    "Number of slots": 5
+    "NumberOfSlots": 5
   },
   {
     "Address": "243 Pyrmont St",
@@ -27,7 +27,7 @@
     "Country": "Australia",
     "Latitude": -33.8738,
     "Longitude": 151.197428,
-    "Number of slots": 10
+    "NumberOfSlots": 10
   },
   {
     "ID": 4,
@@ -38,7 +38,7 @@
     "Country": "Australia",
     "Latitude": -33.889535,
     "Longitude": 151.202806,
-    "Number of slots": 15
+    "NumberOfSlots": 15
   },
   {
     "Address": "280 Liverpool St",
@@ -48,7 +48,7 @@
     "Country": "Australia",
     "Latitude": -33.87784,
     "Longitude": 151.219504,
-    "Number of slots": 20
+    "NumberOfSlots": 20
   },
   {
     "Address": "55 Fitzroy St",
@@ -58,7 +58,7 @@
     "Country": "Australia",
     "Latitude": -33.884866,
     "Longitude": 151.215014,
-    "Number of slots": 8
+    "NumberOfSlots": 8
   },
   {
     "Address": "200 Campbell St",
@@ -68,6 +68,6 @@
     "Country": "Australia",
     "Latitude": -33.88095,
     "Longitude": 151.216152,
-    "Number of slots": 6
+    "NumberOfSlots": 6
   }
 ]
