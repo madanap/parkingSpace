@@ -1,73 +1,11 @@
-[
-  {
-    "Address": "67 Thomas St",
-    "Suburb": "Ultimo",
-    "PostCode": 2007,
-    "State": "NSW",
-    "Country": "Australia",
-    "Latitude": -33.882795,
-    "Longitude": 151.200041,
-    "NumberOfSlots": 50
-  },
-  {
-    "Address": "24 Mary Ann St",
-    "Suburb": "Ultimo",
-    "PostCode": 2007,
-    "State": "NSW",
-    "Country": "Australia",
-    "Latitude": -33.881486,
-    "Longitude": 151.198535,
-    "NumberOfSlots": 5
-  },
-  {
-    "Address": "243 Pyrmont St",
-    "Suburb": "Darling harbour",
-    "PostCode": 2009,
-    "State": "NSW",
-    "Country": "Australia",
-    "Latitude": -33.8738,
-    "Longitude": 151.197428,
-    "NumberOfSlots": 10
-  },
-  {
-    "ID": 4,
-    "Address": "3 George St",
-    "Suburb": "Redfern",
-    "PostCode": 2016,
-    "State": "NSW",
-    "Country": "Australia",
-    "Latitude": -33.889535,
-    "Longitude": 151.202806,
-    "NumberOfSlots": 15
-  },
-  {
-    "Address": "280 Liverpool St",
-    "Suburb": "Darlinghurst",
-    "PostCode": 2010,
-    "State": "NSW",
-    "Country": "Australia",
-    "Latitude": -33.87784,
-    "Longitude": 151.219504,
-    "NumberOfSlots": 20
-  },
-  {
-    "Address": "55 Fitzroy St",
-    "Suburb": "Surry Hills",
-    "PostCode": 2010,
-    "State": "NSW",
-    "Country": "Australia",
-    "Latitude": -33.884866,
-    "Longitude": 151.215014,
-    "NumberOfSlots": 8
-  },
-  {
-    "Address": "200 Campbell St",
-    "Suburb": "Surry Hills",
-    "PostCode": 2010,
-    "State": "NSW",
-    "Country": "Australia",
-    "Latitude": -33.88095,
-    "Longitude": 151.216152,
-    "NumberOfSlots": 6
-  }
+{
+    "data": [
+  ["1","67 Thomas St","Ultimo","2007","NSW","Australia","-33.882795","151.200041", "50"  ],
+  ["2","24 Mary Ann St","Ultimo","2007","NSW","Australia","-33.881486","151.198535", "5"  ],
+  ["3","243 Pyrmont St","Darling harbour","2009","NSW","Australia","-33.8738","151.197428", "10"  ],
+  ["4","3 George St","Redfern","2016","NSW","Australia","-33.889535","151.202806", "15" ],
+  ["5","280 Liverpool St","Darlinghurst","2010","NSW","Australia","-33.87784","151.219504", "20"  ],
+  ["6","55 Fitzroy St","Surry Hills","2010","NSW","Australia","-33.884866","151.215014", "8" ],
+  ["7","200 Campbell St","Surry Hills","2010","NSW","Australia","-33.88095","151.216152", "6"  ]
 ]
+}
